@@ -11,5 +11,5 @@
 */
 import Datepicker from 'vuejs-datepicker';
 
-app.component('date-picker', Datepicker);
+app.component('datePicker', Datepicker);
 </script>
