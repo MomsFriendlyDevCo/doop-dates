@@ -17,6 +17,7 @@
   "homepage": "https://github.com/MomsFriendlyDevCo/doop-dates#readme",
   "dependencies": {
     "moment": "^2.29.1",
+    "vue-datetime": "^1.0.0-beta.14",
     "vuejs-datepicker": "^1.6.2"
   }
 }
